@@ -11,7 +11,7 @@ import SwiftUI
 struct AvocateApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AppView()
         }
     }
 }
